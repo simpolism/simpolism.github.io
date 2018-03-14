@@ -2,7 +2,8 @@
 layout: post
 title:  "Metagaming"
 date:   2018-02-08
-categories: blog philosophy
+category: blog
+tags: philosophy
 ---
 
 _Posted originally on [Tumblr](https://simpolism.tumblr.com/post/170654175624/a-little-writing-i-did-in-a-facebook-group-posted)._

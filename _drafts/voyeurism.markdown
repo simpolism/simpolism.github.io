@@ -31,11 +31,11 @@ To discuss these possibilites, I pull upon Thomas Nagel's [Sexual Perversions](h
 
 Here we see the _hidden_ case as described above: the voyeur is aware of the target, but she is not aware of him. We might visualize this as follows:
 
-![hidden voyeur case](https://github.com/simpolism/simpolism.github.io/blob/master/assets/voyeurism/arousal_hidden.jpg)
+![hidden voyeur case](https://github.com/simpolism/simpolism.github.io/blob/master/assets/voyeurism_hidden.jpg)
 
-Were the target merely an object, this would correspond to one of Nagel's pathological cases: "If the object is not alive, the experience is reduced entirely to an awareness of one's own sexual embodiment." But the target is a person, and her position exposes a key aspect of voyeurism: anxiety. The voyeur is at risk of exposing his position, with potentially disastrious consequences, especially considering the illegal and socially unacceptable status of the voyeuristic act. Anxiety and the erotic go hand-in-hand, and in voyeurism the anxiety runs deep.
+Were the target merely an object, this would correspond to one of Nagel's pathological cases: "if the object is not alive, the experience is reduced entirely to an awareness of one's own sexual embodiment." But the target is a person, and her position exposes a key aspect of voyeurism: anxiety. The voyeur is at risk of exposing his position, with potentially disastrious consequences, especially considering the illegal and socially unacceptable status of the voyeuristic act. Anxiety and the erotic go hand-in-hand, and in voyeurism the anxiety runs deep.
 
-These consequences perhaps are inseparable from the eroticism of the action. The degredation of composure is only fetishized because it holds such import in society. Voyeurism is a "rights violation", it is a violation of privacy rather than how, say, rape is a violation of physical autonomy. As expressed by the popularity of fantasy novels such as _50 Shades of Grey_, taboos create fantasies, and voyeurism is another expression of this dynamic. The flip side of taboo fantasies is that the fantasy disappears if the taboo dissolves: if the target no longer expects privacy, voyeurism loses its appeal.
+These consequences perhaps are inseparable from the eroticism of the action. The degredation of composure is only fetishized because it holds such import in society. Voyeurism is a "rights violation", it is a violation of privacy akin to how rape is a violation of physical autonomy. As expressed by the popularity of fantasy novels such as _50 Shades of Grey_, taboos and violations create fantasies, and voyeurism is another expression of this dynamic. The flip side of a taboo fantasy is that the fantasy disappears if the taboo dissolves: if the target no longer expects privacy, voyeurism loses its appeal.
 
 Further possibilities emerge as more symmetric knowledge is gained:
 
@@ -45,15 +45,19 @@ Further possibilities emerge as more symmetric knowledge is gained:
 
 We might visualize this "normal" encounter as follows:
 
-![Nagel's cocktail party](https://github.com/simpolism/simpolism.github.io/blob/master/assets/voyeurism/arousal_nagel.jpg)
+![Nagel's cocktail party](https://github.com/simpolism/simpolism.github.io/blob/master/assets/voyeurism_nagel.jpg)
 
-The voyeuristic encounter diverges from Nagel's idealized account in one specific detail (emphasis mine): "sexual arousal might begin with a person's sensing that he is sensed and being assailed by the perception of _the other person's desire_ rather than merely by the perception of the person". In an _exhbition_ situation, the voyeur is physically aware of the target, but the target's desire is _formless_: the target does not _desire_ the voyeur, as a body or as a whole person, she instead desires exhibition, _to be seen_, with the voyeur validating this fantasy.
+The voyeuristic encounter diverges from Nagel's idealized account in one specific detail (emphasis mine): "sexual arousal might begin with a person's sensing that he is sensed and being assailed by the perception of _the other person's desire_ rather than merely by the perception of the person". In an _exhibition_ situation, the voyeur is physically aware of the target, but the target's desire is _formless_: the target does not desire _the voyeur_, as a body or as a whole person, she instead desires exhibition, _to be seen_, with the voyeur validating this fantasy.
 
-Both the voyeur and the exhibitionist-target are playing with fantasies. In her awareness of being observed, the exhibitionist is having her fantasy fulfilled. By acting plausibly as if she were unaware of the voyeur, the exhbitionist fulfills the voyeur's fantasy. But by tacitly ackowledging her awareness, the voyeur _knows that the target knows_, and this dramatically heightens his arousal.
+Both the voyeur and the exhibitionist are playing with fantasies.
 
-Often, this ends the explicit reciprocal chain, as there is no way for the exhibitionist to tell that the voyeur is "getting her hints" without ability to observe his behavior. However, this can continue through fantasy, as the voyeur imagines the exhibitionist's thoughts and embodiment and she imagines his. Some erotic literature bridges this gap explictly, by having the exhibitionist sense proxies for arousal such as heavier breathing, but these signs can be so subtle that their ability to signal reciprocation is limited. We might visualize this encouter as follows:
+* In her awareness of being observed, the exhibitionist is having her fantasy fulfilled.
+* By acting plausibly as if she were unaware of the voyeur, the exhbitionist fulfills the voyeur's fantasy.
+* By tacitly ackowledging her awareness, the voyeur _knows that the target knows_, and this dramatically heightens his arousal.
 
-![exhibitionist case](https://github.com/simpolism/simpolism.github.io/blob/master/assets/voyeurism/arousal_exhibitionist.jpg)
+Often, this ends the explicit reciprocal chain, as there is no way for the exhibitionist to tell that the voyeur is "getting her hints" without ability to observe his behavior. However, mutual arousal can continue through fantasy, as the voyeur imagines the exhibitionist's thoughts and embodiment and she imagines his. Some erotic literature bridges this gap explictly, by having the exhibitionist sense proxies for arousal such as heavier breathing, but these signs can be so subtle that their ability to signal reciprocation is limited. We might visualize this encouter as follows:
+
+![exhibitionist case](https://github.com/simpolism/simpolism.github.io/blob/master/assets/voyeurism_exhibitionist.jpg)
 
 Exhibitionism is perhaps the most ideal situation, the closest to what Nagel calls "the basic framework of any full-fledged sexual relation". It is reciprocated to a large degree and involves mutual fulfillment of fantasy.
 
@@ -63,12 +67,12 @@ In a _shame_ situation, in which the voyeur obtains pleasure from the target's d
 
 In a voyeuristic scenario, this physical pain is replaced by _intimate knowledge_, an intrusion into the target's sphere of assumed privacy. The voyeur causes the target to act out of shame, thus demonstrating his power over her and satisfying De Sade's criterion. We might visualize this as follows:
 
-![sadist case](https://github.com/simpolism/simpolism.github.io/blob/master/assets/voyeurism/arousal_shame.jpg)
+![sadist case](https://github.com/simpolism/simpolism.github.io/blob/master/assets/voyeurism_shame.jpg)
 
-To complete our case-by-case analysis, the _suspicion_ case straddles the line between hidden and shame. The target is aware _something_ is amiss, thus the voyeur has managed to evoke an involuntary response, yet it is insufficient to invoke a full shame response. In this situation, the voyeur is able to both observe the target respond to his presence, without preventing her from performing whatever action he had intended to observe. The anxiety is heightened even further than if more successfully hidden, as the target is suspicious, further heightening the eroticism.
+To complete our case-by-case analysis, the _suspicion_ case is an extension of the _hidden_ case. The target is aware _something_ is amiss, but the target does not experience a full shame response. As the target is suspicious, the anxiety is heightened, further heightening the eroticism.
 
-The following diagram summarizes all the cases together, contrasted with Nagel's ideal case:
+The following diagram summarizes all the cases together:
 
-![voyeurism summary](https://github.com/simpolism/simpolism.github.io/blob/master/assets/voyeurism/arousal_full.jpg)
+![voyeurism summary](https://github.com/simpolism/simpolism.github.io/blob/master/assets/voyeurism_full.jpg)
 
 In summary, depending on the complicity of the target, voyeurism is either a facet of sadism in which knowledge rather than force is power, or a mutual playing-out of a voyeuristic/exhibitionist fantasy, in which the fantasy originates from the social institution of privacy.

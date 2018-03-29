@@ -37,9 +37,11 @@ Here we see the _hidden_ case as described above: the voyeur is aware of the tar
 
 ![hidden voyeur case](https://github.com/simpolism/simpolism.github.io/blob/master/assets/voyeurism_hidden.jpg)
 
-The voyeur is hidden, but still has some degree of privacy. If his presence is suggested to the target, but not confirmed, she might become _suspicious_, as in the second case, which further heightens the anxiety.
+If the voyeur's presence is suggested to the target, but not confirmed, she might become _suspicious_, as in the second case, which further heightens the anxiety.
 
-Further possibilities emerge as the target gains more knowledge:
+Ironically, the voyeur's safety in these situations relies on safeguarding _his own privacy_, exactly the thing he is stripping from his target.
+
+Further possibilities emerge as the target gains more knowledge of the situation:
 
 > Let us suppose, however, that Juliet now senses Romeo in another mirror on the opposite wall, though neither of them yet knows that he is seen by the other (the mirror angles provide three-quarter views). Romeo then begins to notice in Juliet the subtle signs of sexual arousal: heavy-lidded stare, dilating pupils, faint flush, et cetera. This of course renders her much more bodily, and he not only notices but senses this as well. His arousal is nevertheless still solitary. But now, cleverly calculating the line of her stare without actually looking her in the eyes, he realizes that it is directed at him through the mirror on the opposite wall. That is, he notices, and moreover senses, Juliet sensing him. This is definitely a new development, for it gives him a sense of embodiment not only through his own reactions but through the eyes and reactions of another. Moreover, it is separable from the initial sensing of Juliet; for sexual arousal might begin with a person's sensing that he is sensed and being assailed by the perception of the other person's desire rather than merely by the perception of the person.
 
@@ -49,20 +51,20 @@ We might visualize this "normal" erotic encounter as follows:
 
 ![Nagel's cocktail party](https://github.com/simpolism/simpolism.github.io/blob/master/assets/voyeurism_nagel_arousal.jpg)
 
-The voyeuristic encounter diverges from Nagel's idealized account in one specific detail (emphasis mine): "_sexual arousal might begin with a person's sensing that he is sensed and being assailed by the perception of **the other person's desire** rather than merely by the perception of the person_". In an _exhibition_ situation, the voyeur is physically aware of the target, but the target's desire is _formless_: the target does not desire _the voyeur_, as a body or as a whole person, she instead desires exhibition, _to be seen_, with the voyeur validating this fantasy.
+The voyeuristic encounter begins to diverge from Nagel's idealized account on one specific detail (emphasis mine): "_sexual arousal might begin with a person's sensing that he is sensed and being assailed by the perception of **the other person's desire** rather than merely by the perception of the person_". In an _exhibition_ situation, the voyeur is physically aware of the target, but the target's desire is _formless_: the target does not desire _the voyeur_, as a body or as a whole person, she instead desires exhibition, _to be seen_, with the voyeur validating this fantasy.
 
 The exhibitionist fantasy springs from a similar place to the voyeuristic fantasy. The exhibitionist fantasizes about violating the same privacy norms as the voyeur, but in the first-person as opposed to the third-person. The interaction between a voyeur and an exhibitionist might exhibit these characteristics:
 
 * In her awareness of being observed, the exhibitionist is having her fantasy fulfilled.
 * By acting plausibly as if she were unaware of the voyeur, and continuing to degrade herself, the exhbitionist fulfills the voyeur's fantasy.
 * By tacitly ackowledging her awareness, the voyeur _knows that the exhibitionist knows_, and this dramatically heightens his arousal.
-* Ideally, the exhibitionist receives some signal from the voyeur that he knows she knows, but the fantasy voyeur is typically silent and well-hidden. She might fantasize about his increased arousal, and he might imagine her fantasizing about him.
+* Ideally, the voyeur somehow signals to the exhibitionist that he knows she knows, but the idealized voyeur is silent and perfectly hidden. Despite receiving no signals from the voyeur, the exhibitionist might fantasize about his increased sexual excitement, and he might imagine her fantasizing about him.
 
 We might visualize this encouter as follows:
 
 ![exhibitionist case](https://github.com/simpolism/simpolism.github.io/blob/master/assets/voyeurism_exhibition.jpg)
 
-Exhibitionism is an ideal paring with voyeurism, and involves elements close to what Nagel calls "the basic framework of any full-fledged sexual relation". It is reciprocated to a large degree and involves mutual fulfillment of fantasy. Nagel might still describe it as a perversion, though, as it still involves a "truncated or incomplete [version] of the complete configuration" described above. According to Nagel, once a sexual encounter involves imagining a partner's response rather than observing it, the encounter becomes perverse.
+Exhibitionism is an ideal paring with voyeurism. It is reciprocated to a large degree and involves mutual fulfillment of fantasy. It involves elements close to what Nagel calls "the basic framework of any full-fledged sexual relation". Nagel might still describe a voyeur-exhibitionist pairing as a perversion, though, as it still involves a "truncated or incomplete [version] of the complete configuration" described above. According to Nagel, once a sexual encounter involves imagining a partner's response rather than observing it, the encounter becomes perverse.
 
 Unfortunately for the enterprising voyeur, it is difficult to know whether his target will be an exhibitionist. The target's emotions are likely to be mixed between arousal and shame, and many individuals will choose to act on their feelings of shame rather than "leaning into" the arousal.
 

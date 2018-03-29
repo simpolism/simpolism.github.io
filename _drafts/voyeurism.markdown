@@ -45,7 +45,7 @@ Further possibilities emerge as more symmetric knowledge is gained:
 
 We might visualize this "normal" encounter as follows:
 
-![Nagel's cocktail party](https://github.com/simpolism/simpolism.github.io/blob/master/assets/voyeurism_nagel.jpg)
+![Nagel's cocktail party](https://github.com/simpolism/simpolism.github.io/blob/master/assets/voyeurism_nagel_arousal.jpg)
 
 The voyeuristic encounter diverges from Nagel's idealized account in one specific detail (emphasis mine): "sexual arousal might begin with a person's sensing that he is sensed and being assailed by the perception of _the other person's desire_ rather than merely by the perception of the person". In an _exhibition_ situation, the voyeur is physically aware of the target, but the target's desire is _formless_: the target does not desire _the voyeur_, as a body or as a whole person, she instead desires exhibition, _to be seen_, with the voyeur validating this fantasy.
 
@@ -57,7 +57,7 @@ Both the voyeur and the exhibitionist are playing with fantasies.
 
 Often, this ends the explicit reciprocal chain, as there is no way for the exhibitionist to tell that the voyeur is "getting her hints" without ability to observe his behavior. However, mutual arousal can continue through fantasy, as the voyeur imagines the exhibitionist's thoughts and embodiment and she imagines his. Some erotic literature bridges this gap explictly, by having the exhibitionist sense proxies for arousal such as heavier breathing, but these signs can be so subtle that their ability to signal reciprocation is limited. We might visualize this encouter as follows:
 
-![exhibitionist case](https://github.com/simpolism/simpolism.github.io/blob/master/assets/voyeurism_exhibitionist.jpg)
+![exhibitionist case](https://github.com/simpolism/simpolism.github.io/blob/master/assets/voyeurism_exhibition.jpg)
 
 Exhibitionism is perhaps the most ideal situation, the closest to what Nagel calls "the basic framework of any full-fledged sexual relation". It is reciprocated to a large degree and involves mutual fulfillment of fantasy.
 

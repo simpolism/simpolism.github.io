@@ -3,7 +3,7 @@ layout: post
 title:  "SEA IS A LADY"
 date:   2018-03-22
 category: blog
-tags: music
+tags: music review
 ---
 
 What should a music review be? I'm not trying to sell you anything, might as well link the album in its entirety: https://www.youtube.com/watch?v=A59T-qgHqyc

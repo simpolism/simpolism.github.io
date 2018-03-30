@@ -23,9 +23,9 @@ A key emotion for the voyeur is _anxiety_. Violating any taboo carries risk, and
 Once a target is "caught", she might or might not be aware of the voyeur. This leads to different fantastical scenarios with different erotic outcomes. We will explore the following scenarios, in which the target becomes aware of the voyeur to various degrees:
 
 1. total unawareness of the voyeur (the _hidden_ case)
-2. awareness of the voyeur, accompanied by arousal and increased performativity (the _exhibition_ case)
-3. awareness of the voyeur, accompanied by shame and attempted evasion (the _shame_ case)
-4. awareness of some presence or otherness, but unclear of who or what (the _suspicion_ case)
+2. awareness of some presence or otherness, but unclear of who or what (the _suspicion_ case)
+3. awareness of the voyeur, accompanied by arousal and increased performativity (the _exhibition_ case)
+4. awareness of the voyeur, accompanied by shame and attempted evasion (the _shame_ case)
 
 To discuss these possibilites, I pull upon Thomas Nagel's [Sexual Perversions](https://pdfs.semanticscholar.org/bc66/32ba46b9d31b0bff5285ebe8c1453513cce2.pdf) (pdf), specifically his "cocktail lounge" thought experiment. Please allow me to quote Nagel at length, explaining the "normal" process of arousal in a _symmetric_ observational situation:
 

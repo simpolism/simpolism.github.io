@@ -6,6 +6,8 @@ category: blog
 tags: sex introspection
 ---
 
+## Introduction
+
 The act of voyeurism, in its most idealized form, is an asymmetric interaction between two individuals:
 * a _voyeur_, the hidden observer, often male, and
 * a _target_, the oblivious exhibit, often female
@@ -22,10 +24,11 @@ A key emotion for the voyeur is _anxiety_. Violating any taboo carries risk, and
 
 Once a target is "caught", she might or might not be aware of the voyeur. This leads to different fantastical scenarios with different erotic outcomes. We will explore the following scenarios, in which the target becomes aware of the voyeur to various degrees:
 
-1. total unawareness of the voyeur (the _hidden_ case)
-2. awareness of some presence or otherness, but unclear of who or what (the _suspicion_ case)
-3. awareness of the voyeur, accompanied by arousal and increased performativity (the _exhibition_ case)
-4. awareness of the voyeur, accompanied by shame and attempted evasion (the _shame_ case)
+1. total or partial unawareness of the voyeur (the _hidden_ case)
+2. awareness of the voyeur, accompanied by arousal and increased performativity (the _exhibition_ case)
+3. awareness of the voyeur, accompanied by shame and attempted evasion (the _shame_ case)
+
+## The Hidden Case
 
 To discuss these possibilites, I pull upon Thomas Nagel's [Sexual Perversions](https://pdfs.semanticscholar.org/bc66/32ba46b9d31b0bff5285ebe8c1453513cce2.pdf) (pdf), specifically his "cocktail lounge" thought experiment. Please allow me to quote Nagel at length, explaining the "normal" process of arousal in a _symmetric_ observational situation:
 
@@ -37,9 +40,9 @@ Here we see the _hidden_ case as described above: the voyeur is aware of the tar
 
 ![hidden voyeur case](https://github.com/simpolism/simpolism.github.io/blob/master/assets/voyeurism_hidden.jpg)
 
-If the voyeur's presence is suggested to the target, but not confirmed, she might become _suspicious_, as in the second case, which further heightens the anxiety.
+Much voyeurism stops here. Ironically, the voyeur's safety in these situations relies on safeguarding _his own privacy_, exactly the thing he is stripping from his target.
 
-Ironically, the voyeur's safety in these situations relies on safeguarding _his own privacy_, exactly the thing he is stripping from his target.
+## The Exhibition Case
 
 Further possibilities emerge as the target gains more knowledge of the situation:
 
@@ -66,6 +69,8 @@ We might visualize this encouter as follows:
 
 Exhibitionism is an ideal paring with voyeurism. It is reciprocated to a large degree and involves mutual fulfillment of fantasy. It involves elements close to what Nagel calls "the basic framework of any full-fledged sexual relation". Nagel might still describe a voyeur-exhibitionist pairing as a perversion, though, as it still involves a "truncated or incomplete [version] of the complete configuration" described above. According to Nagel, once a sexual encounter involves imagining a partner's response rather than observing it, the encounter becomes perverse.
 
+## The Shame Case
+
 Unfortunately for the enterprising voyeur, it is difficult to know whether his target will be an exhibitionist. The target's emotions are likely to be mixed between arousal and shame, and many individuals will choose to act on their feelings of shame rather than "leaning into" the arousal.
 
 Thus, other voyeuristic fantasies explicitly involve triggering a shame response. In the _shame_ situation, the voyeur obtains pleasure from the target's distress. This can be likened to Nagel's discussion of sadism:
@@ -75,6 +80,8 @@ Thus, other voyeuristic fantasies explicitly involve triggering a shame response
 In voyeurism as opposed to physical domination, pain is replaced by _intimate knowledge_, an intrusion into the target's sphere of assumed privacy. The voyeur causes the target to act out of shame, thus demonstrating his power over her and satisfying De Sade's criterion. In literature, this situation is often a precursor to direct physical domination of the target. We might visualize this as follows:
 
 ![sadist case](https://github.com/simpolism/simpolism.github.io/blob/master/assets/voyeurism_shame.jpg)
+
+## Conclusion
 
 The following diagram summarizes all discussed cases:
 

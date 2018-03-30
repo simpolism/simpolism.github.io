@@ -69,11 +69,25 @@ We might visualize this encouter as follows:
 
 Exhibitionism is an ideal paring with voyeurism. It is reciprocated to a large degree and involves mutual fulfillment of fantasy. It involves elements close to what Nagel calls "the basic framework of any full-fledged sexual relation". Nagel might still describe a voyeur-exhibitionist pairing as a perversion, though, as it still involves a "truncated or incomplete [version] of the complete configuration" described above. According to Nagel, once a sexual encounter involves imagining a partner's response rather than observing it, the encounter becomes perverse.
 
-## The Shame Case
-
 Unfortunately for the enterprising voyeur, it is difficult to know whether his target will be an exhibitionist. The target's emotions are likely to be mixed between arousal and shame, and many individuals will choose to act on their feelings of shame rather than "leaning into" the arousal.
 
-Thus, other voyeuristic fantasies explicitly involve triggering a shame response. In the _shame_ situation, the voyeur obtains pleasure from the target's distress. This can be likened to Nagel's discussion of sadism:
+We might ask the question: what makes an exhibitionist? What might cause one to choose to give into the arousal rather than the shame? A monologue from Ingmar Bergman's film _Persona_ might reveal this dynamic to us more clearly:
+
+> We lay there completely naked and sunbathed... dozing off and on, putting sunscreen on. We had silly straw hats on. Mine had a blue ribbon. I lay there...looking out at the landscape, at the sea and the sun. It was kind of funny. Suddenly I saw two figures on the rocks above us. They hid and peeped out occasionally. "Two boys are looking at us," I said to the girl, Her name was Katarina. "Let them look," she said, and turned over on her back. I had a funny feeling. I wanted to jump up and put my suit on, but I just lay there on my stomach with my bottom in the air, unembarrassed, totally calm. And Katarina was next to me with her breasts and big thighs. She was just giggling. I noticed that the boys were coming closer. They just stood there looking at us. I noticed they were very young. The boldest one approached us...and squatted down next to Katarina. He pretended to be busy picking his toes. I felt very strange. Suddenly Katarina said to him, "Hey, you, why don't you come over here?" Then she took his hand and helped him take off his jeans and shirt. Suddenly he was on top of her...
+
+The [monologue continues in more graphic detail](http://www.actorpoint.com/free_monologues/mvw112.html), but the most important aspects have been revealed:
+
+* The voyeurs are naive, young, presumably peeking due to honest curiosity.
+* The exhibitionists are in a secure and dominant position.
+* The "funny feeling" and desire to flee means anxiety (but anxiety and eroticism go hand-in-hand).
+
+From these observations we can intuit that exhibitionism involves an explicit power dynamic: the exhibitionist has power over the voyeur. He desires her, and she knows it. She could report him to the authorities, or she could fulfill his desires, and he knows it. A naive voyeur has a stronger desire, and presents less of a threat if he decides to overstep whatever boundaries the exhibitionist sets.
+
+Thus, a naive or weak voyeur is more likely to provoke an exhibitionistic response. Perhaps the exhibitionist impulse ties into the mothering impulse rather than the submissive impulse typically ascribed to women's sexuality: the child desires the mother, and the mother wants to fulfill his desires.
+
+## The Shame Case
+
+Given the uncertainty about whether a voyeur's actions will be met with arousal or shame, it makes sense that some voyeuristic fantasies explicitly involve triggering a shame response. In the _shame_ situation, the voyeur obtains pleasure from the target's distress. This can be likened to Nagel's discussion of sadism:
 
 > Sadism concentrates on the evocation of passive self-awareness in others, but the sadist's engagement is itself active and requires a retention of deliberate control which impedes awareness of himself as a bodily subject of passion in the required sense. The victim must recognize him as the source of his own sexual passivity, but only as the active source. De Sade claimed that the object of sexual desire was to evoke involuntary responses from one's partner, especially audible ones. The infliction of pain is no doubt the most efficient way to accomplish this...
 
@@ -91,8 +105,29 @@ To summarize, voyeurism is a sexual fantasy rooted in the privacy taboo, paralle
 
 The voyeur violates his target's privacy without consent, and he leaves no trace if his attempt is successful. Most sexual encounters involve a consensual relaxation of privacy--couples often view each other naked--but voyeurism is attractive if no mutual relation seems possible. A successful voyeur is freed from both consequences and from the social games involved in finding a partner. Perhaps this is why the dorky kid is often cast as a pervert: voyeurism allows the dork to pursue his erotic desires in a concrete manner, no matter how unappealing he might be.
 
-Porn also has a deep relationship to voyeurism. The act of viewing porn is analogous to an act of voyeurism: an observer witnesses some situation and becomes aroused. As a result, voyeurism might have special appeal to avid porn consumers: porn feeds our fantasies, and all porn is voyeuristic to some degree. We might be tempted to claim that voyeurism is an attempt to _act out the experience of watching porn_, or even the experience of watching any visual media including TV. But, [David Foster Wallace disagrees](https://jsomers.net/DFW_TV.pdf):
+Porn also has a deep relationship to voyeurism. The act of viewing porn is analogous to an act of voyeurism: an observer witnesses some situation and becomes aroused. As a result, voyeurism might have special appeal to avid porn consumers: porn feeds our fantasies, and all porn is voyeuristic to some degree. We might be tempted to claim that voyeurism is an attempt to _act out the experience of watching porn_, or even the experience of watching any visual media including TV. But, [David Foster Wallace disagrees](https://jsomers.net/DFW_TV.pdf) (pdf):
 
 > ...a lot of the criticism [of TV], the really rabid criticism less leveled than sprayed at networks, advertisers, and audiences alike, has to do with the charge that television has turned us into a nation of sweaty, slack-jawed voyeurs. This charge turns out to be untrue, but for weird reasons.
 
 > What classic voyeurism is is espial: watching people who don't know you're there as they go about the mundane but erotically charged little businesses of private life. It's interesting that so much classic voyeurism involves media of framed glass--windows, telescopes, etc. Maybe the framed glass is why the analogy to television is so tempting. But TV-watching is a different animal from Peeping Tomism. Because the people we're watching through TV's framed-glass screen are not really ignorant of the fact that somebody is watching them...
+
+What makes voyeurism a challenge to disentangle is that it originates from two related but conflicting feelings:
+
+* An honest sexual interest in a target, leading to _exploration_, often in order to determine compatibility,
+* Or a desire to gain coercive power over the target, leading to _intrusion_.
+
+The boundary between the two is not always so clear.
+
+All exploratory sexual behavior risks being perceived as intrusive. This is currently a political focus, with movements such as "Yes Means Yes" asserting that ambiguous exploration should be preceeded by an explicit affirmation. In theory, explicit affirmation avoids boundary violations. In practice, as we see with the example from _Persona_, the women found the boys' naive exploratory behavior itself attractive.
+
+To dig deeper, the distinction between "exploration" and "intrusion" ultimately comes down to social norms. If an exploratory act would violate a norm, it would be intrusive to perform it without consent. If an exploratory act does not violate a norm, it is generally acceptable to perform, unless asked explicitly to cease.
+
+This situation subjects women especially to a degree of unwanted behaviors, but a set of strong norms against intrusion provides them assurance that they can ask the person to cease and generally be taken seriously. Contemporary political movements attempt to push more exploratory behaviors into the "intrusive" domain, even such behaviors as flirting can be seen as unacceptable. But this weakens the strength of the norms against intrusion, as now _men are expected to act intrusively_ as a _normal_ part of the courtship process.
+
+These norm changes could have a few significant results:
+
+* There is a feeling that courtship is much more risky than before.
+* There is an incentive for already-transgressive actors to push further than they otherwise might have: "if I've already intruded this far, why not go further?"
+* People who feel intruded-upon have less power to punish bad actors, as violations are overall seen as less severe. Accusors are taken less seriously.
+
+In general, this distinction between exploration and intrusion can help us frame discussions around sexuality, around what is acceptable and what is not, especially from a male perspective, as men are disproportionately the explorers and the intruders. Better communication is the goal, as better communication begets smoother interactions. Communication is the only way to bring some level of clarity to what is one of the most confusing and complicated domains of human experience.

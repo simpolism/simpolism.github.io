@@ -6,7 +6,7 @@ category: blog
 tags: sex introspection
 ---
 
-## Introduction
+## What Is Voyeurism?
 
 The act of voyeurism, in its most idealized form, is an asymmetric interaction between two individuals:
 * a _voyeur_, the hidden observer, often male, and

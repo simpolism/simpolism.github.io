@@ -67,7 +67,7 @@ We might visualize this encouter as follows:
 
 ![exhibitionist case](https://github.com/simpolism/simpolism.github.io/blob/master/assets/voyeurism_exhibition.jpg)
 
-Exhibitionism is an ideal paring with voyeurism. It is reciprocated to a large degree and involves mutual fulfillment of fantasy. It involves elements close to what Nagel calls "the basic framework of any full-fledged sexual relation". Nagel might still describe a voyeur-exhibitionist pairing as a perversion, though, as it still involves a "truncated or incomplete [version] of the complete configuration" described above. According to Nagel, once a sexual encounter involves imagining a partner's response rather than observing it, the encounter becomes perverse.
+Exhibitionism is an ideal pairing with voyeurism. It is reciprocated to a large degree and involves mutual fulfillment of fantasy. It involves elements close to what Nagel calls "the basic framework of any full-fledged sexual relation". Nagel might still describe a voyeur-exhibitionist pairing as a perversion, though, as it still involves a "truncated or incomplete [version] of the complete configuration" described above. According to Nagel, once a sexual encounter involves imagining a partner's response rather than observing it, the encounter becomes perverse.
 
 Unfortunately for the enterprising voyeur, it is difficult to know whether his target will be an exhibitionist. The target's emotions are likely to be mixed between arousal and shame, and many individuals will choose to act on their feelings of shame rather than "leaning into" the arousal.
 
@@ -110,24 +110,3 @@ Porn also has a deep relationship to voyeurism. The act of viewing porn is analo
 > ...a lot of the criticism [of TV], the really rabid criticism less leveled than sprayed at networks, advertisers, and audiences alike, has to do with the charge that television has turned us into a nation of sweaty, slack-jawed voyeurs. This charge turns out to be untrue, but for weird reasons.
 
 > What classic voyeurism is is espial: watching people who don't know you're there as they go about the mundane but erotically charged little businesses of private life. It's interesting that so much classic voyeurism involves media of framed glass--windows, telescopes, etc. Maybe the framed glass is why the analogy to television is so tempting. But TV-watching is a different animal from Peeping Tomism. Because the people we're watching through TV's framed-glass screen are not really ignorant of the fact that somebody is watching them...
-
-What makes voyeurism a challenge to disentangle is that it originates from two related but conflicting feelings:
-
-* An honest sexual interest in a target, leading to _exploration_, often in order to determine compatibility,
-* Or a desire to gain coercive power over the target, leading to _intrusion_.
-
-The boundary between the two is not always so clear.
-
-All exploratory sexual behavior risks being perceived as intrusive. This is currently a political focus, with movements such as "Yes Means Yes" asserting that ambiguous exploration should be preceeded by an explicit affirmation. In theory, explicit affirmation avoids boundary violations. In practice, as we see with the example from _Persona_, the women found the boys' naive exploratory behavior itself attractive.
-
-To dig deeper, the distinction between "exploration" and "intrusion" ultimately comes down to social norms. If an exploratory act would violate a norm, it would be intrusive to perform it without consent. If an exploratory act does not violate a norm, it is generally acceptable to perform, unless asked explicitly to cease.
-
-This situation subjects women especially to a degree of unwanted behaviors, but a set of strong norms against intrusion provides them assurance that they can ask the person to cease and generally be taken seriously. Contemporary political movements attempt to push more exploratory behaviors into the "intrusive" domain, even such behaviors as flirting can be seen as unacceptable. But this weakens the strength of the norms against intrusion, as now _men are expected to act intrusively_ as a _normal_ part of the courtship process.
-
-These norm changes could have a few significant results:
-
-* There is a feeling that courtship is much more risky than before.
-* There is an incentive for already-transgressive actors to push further than they otherwise might have: "if I've already intruded this far, why not go further?"
-* People who feel intruded-upon have less power to punish bad actors, as violations are overall seen as less severe. Accusors are taken less seriously.
-
-In general, this distinction between exploration and intrusion can help us frame discussions around sexuality, around what is acceptable and what is not, especially from a male perspective, as men are disproportionately the explorers and the intruders. Better communication is the goal, as better communication begets smoother interactions. Communication is the only way to bring some level of clarity to what is one of the most confusing and complicated domains of human experience.

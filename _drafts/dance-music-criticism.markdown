@@ -50,4 +50,4 @@ And so we can see why dance music discussion often involves hyper-hyper-subgenre
 
 The rise of Youtube and Soundcloud and even Spotify has had a domain-shifting effect. Music now looks like dance music always had: a distributed collection of one-offs existing within an essential cultural context. Thus, these conceptual and critical differences are becoming more relevant than ever before. We are beyond "remix culture" and have entered a truly distributed creative environment. Hopefully, an understanding of these dynamics can provide us guidance in building a critical history of music as time and technology continue their steady march.
 
-The artist is dead, and may the album rest in peace by his side.
+The artist is dead! Let there be house!

@@ -6,17 +6,17 @@ category: blog
 tags: music review
 ---
 
-> In the beginning, there was Jack, and Jack had a groove.
-> And from this groove came the groove of all grooves.
-> And while one day viciously throwing down on his box, Jack boldy declared,
+> In the beginning, there was Jack, and Jack had a groove.  
+> And from this groove came the groove of all grooves.  
+> And while one day viciously throwing down on his box, Jack boldy declared,  
 > "Let there be HOUSE!" and house music was born.
 
-> I am, you see, I am the creator, and this is my house!
-> And, in my house there is only house music.
-> But, I am not so selfish because once you enter my house it then becomes OUR house and OUR house music!
+> I am, you see, I am the creator, and this is my house!  
+> And, in my house there is only house music.  
+> But, I am not so selfish because once you enter my house it then becomes OUR house and OUR house music!  
 > And, you see, no one man owns house because house music is a universal language, spoken and understood by all.
 
-_~ from ["My House" acapella](https://www.youtube.com/watch?v=YO9KEKnnlKs) as popularized [above many tunes](http://hyperreal.org/raves/spirit/vibe/JacksHouse.html) but most famously atop [Mr Fingers' "Can You Feel It?"](https://www.youtube.com/watch?v=ts8iBs3tpmw)._
+_\- from ["My House" acapella](https://www.youtube.com/watch?v=YO9KEKnnlKs) as popularized [above many tunes](http://hyperreal.org/raves/spirit/vibe/JacksHouse.html) but most famously atop [Mr Fingers' "Can You Feel It?"](https://www.youtube.com/watch?v=ts8iBs3tpmw)._
 
 Music criticism has eluded me lately. I don't know how to write about the music I like: electronic dance music. I could write about albums, but it doesn't feel right. What albums could I discuss? The disposable sets I find on Mixcloud? There seems to be a fundamental divergence between how I engage with the music I like, and how critics of the past thought about music.
 

@@ -9,7 +9,7 @@ tags: music review
 > In the beginning, there was Jack, and Jack had a groove.  
 > And from this groove came the groove of all grooves.  
 > And while one day viciously throwing down on his box, Jack boldy declared,  
-> "Let there be HOUSE!" and house music was born.
+> "Let there be House!" and house music was born.
 
 > I am, you see, I am the creator, and this is my house!  
 > And, in my house there is only house music.  
@@ -50,4 +50,4 @@ And so we can see why dance music discussion often involves hyper-hyper-subgenre
 
 The rise of Youtube and Soundcloud and even Spotify has had a domain-shifting effect. Music now looks like dance music always had: a distributed collection of one-offs existing within an essential cultural context. Thus, these conceptual and critical differences are becoming more relevant than ever before. We are beyond "remix culture" and have entered a truly distributed creative environment. Hopefully, an understanding of these dynamics can provide us guidance in building a critical history of music as time and technology continue their steady march.
 
-The artist is dead! Let there be house!
+The artist is dead! Let there be House!

@@ -16,21 +16,21 @@ tags: music review
 > But, I am not so selfish because once you enter my house it then becomes OUR house and OUR house music!
 > And, you see, no one man owns house because house music is a universal language, spoken and understood by all.
 
-- From ["My House" acapella](https://www.youtube.com/watch?v=YO9KEKnnlKs) as popularized [above many tunes](http://hyperreal.org/raves/spirit/vibe/JacksHouse.html) but most famously atop [Mr Fingers' "Can You Feel It?"](https://www.youtube.com/watch?v=ts8iBs3tpmw).
+_~ from ["My House" acapella](https://www.youtube.com/watch?v=YO9KEKnnlKs) as popularized [above many tunes](http://hyperreal.org/raves/spirit/vibe/JacksHouse.html) but most famously atop [Mr Fingers' "Can You Feel It?"](https://www.youtube.com/watch?v=ts8iBs3tpmw)._
 
 Music criticism has eluded me lately. I don't know how to write about the music I like: electronic dance music. I could write about albums, but it doesn't feel right. What albums could I discuss? The disposable sets I find on Mixcloud? There seems to be a fundamental divergence between how I engage with the music I like, and how critics of the past thought about music.
 
 To try and understand, we'll have to first look backwards. We can look at [Lester Bangs writing about Astral Weeks](https://personal.cis.strath.ac.uk/murray.wood/astral.html) and note how he attacks the album in question:
 
-1. He writes about his own life and connection to the album: "fall of 1968 was such a terrible time".
-1. He relates the album to a broader context, contrasting with other albums and other artists: "but like the later albums by the Velvet Underground, there was a redemptive element".
-1. He writes about the artist's other performances: "1974, a late night network TV rock concert".
-1. He analyzes the formal structure of the artist's performance: "four rushed repeats of the phrases 'you breathe in, you breath out' and 'you turn around'".
-1. He performs an analysis of the artist's intent and "mental processes": "Van Morrison is interested, obsessed with how much musical or verbal information he can compress into a small space".
-1. He analyzes the lyrics and what messages it carries and how they relate to the musical performance: "in 'T.B. Sheets', his last extended narrative before making this record, Van Morrison watched a girl he loved die of tuberculosis. the song was claustrophobic, suffocating, mostrously powerful"
-1. He attempts to draw broader philosophical truths that he sees within the work: "maybe what [Astral Weeks] boil[s] down to is one moment's knowledge of the miracle of life, with its inevitable concomitant, a vertiginous glimpse of the capacity to be hurt, and the capacity to inflict that hurt."
-1. He draws a narrative arc of the artist and discusses how the album fits within it: "no wonder, too, that Van Morrison never came this close to looking life square in the face again"
-1. Interleaved in all the above is _feeling_: _emotions_ and _thoughts_ relating to the work, using quite poetic language.
+* He writes about his own life and connection to the album: "fall of 1968 was such a terrible time".
+* He relates the album to a broader context, contrasting with other albums and other artists: "but like the later albums by the Velvet Underground, there was a redemptive element".
+* He writes about the artist's other performances: "1974, a late night network TV rock concert".
+* He analyzes the formal structure of the artist's performance: "four rushed repeats of the phrases 'you breathe in, you breath out' and 'you turn around'".
+* He performs an analysis of the artist's intent and "mental processes": "Van Morrison is interested, obsessed with how much musical or verbal information he can compress into a small space".
+* He analyzes the lyrics and what messages it carries and how they relate to the musical performance: "in 'T.B. Sheets', his last extended narrative before making this record, Van Morrison watched a girl he loved die of tuberculosis. the song was claustrophobic, suffocating, mostrously powerful"
+* He attempts to draw broader philosophical truths that he sees within the work: "maybe what [Astral Weeks] boil[s] down to is one moment's knowledge of the miracle of life, with its inevitable concomitant, a vertiginous glimpse of the capacity to be hurt, and the capacity to inflict that hurt."
+* He draws a narrative arc of the artist and discusses how the album fits within it: "no wonder, too, that Van Morrison never came this close to looking life square in the face again"
+* Interleaved in all the above is _feeling_: _emotions_ and _thoughts_ relating to the work, using quite poetic language.
 
 It's a brilliant essay, the sort of thing that leaves a permanent mark on readers when they discover it, that leads them to reinterpret the work in question and perhaps attempt deeper understandings of other works they might have felt but never _fully interpreted_. And it would be impossible to write this sort of essay about dance music.
 

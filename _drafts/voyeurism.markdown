@@ -8,13 +8,13 @@ tags: sex introspection
 
 ## What Is Voyeurism?
 
-Fetishes and "perversions" are common phenomena, but our understanding of the mechanics behind them are often opaque. We understand the fetishist exists, but we struggle to relate, to figure out the "why" and "how" behind their interests. The goal of this essay is to answer this question in the case of the voyeur: "What is it? What is its erotic basis? What do people like about it?"
+Fetishes and "perversions" are common phenomena, but the general understanding of their mechanics is opaque. We understand the fetishist exists, but we struggle to relate, to figure out the "why" and "how" behind their interests. The goal of this essay is to answer this question in the case of the voyeur: "What is it? What is its erotic basis? What do people like about it?"
 
 Voyeurism is a term which has a couple of distinct colloquial meanings. I choose to define "voyeurism" as **erotic experience through direct observation**.
 
 We can see voyeurism as the embodied cousin of porn consumption. Porn might be described as "erotic experience through observation," so perhaps we might classify porn as _a simulacra_ of voyeurism. In this essay I hope to explore the aspects more unique to voyeurism, including understanding what "voyeurism porn" might be.
 
-To be clear, "perversion" is not derogatory in this case. It is the terminology used by Thomas Nagel in [Sexual Perversions](https://pdfs.semanticscholar.org/bc66/32ba46b9d31b0bff5285ebe8c1453513cce2.pdf) (pdf) to describe behavior that deviates from his "complete configuration" of sexual desire: "_reflexive mutual recognition_... a desire that one's partner be aroused by the recognition of one's desire that he or she is aroused." Given this definition, most voyeuristic behavior is a perversion (except perhaps the case of exhibitionism, which we will discuss later). We might then ask: _what makes voyeurism work? What kinds of erotic experience can be obtained through observation?_
+I will not be deploying the word "perversion," as used in the paragraph above, in a derogatory way. It isinstead the terminology used by Thomas Nagel in [Sexual Perversions](https://pdfs.semanticscholar.org/bc66/32ba46b9d31b0bff5285ebe8c1453513cce2.pdf) (pdf) to describe behavior that deviates from his "complete configuration" of sexual desire: "_reflexive mutual recognition_... a desire that one's partner be aroused by the recognition of one's desire that he or she is aroused." Given this definition, most voyeuristic behavior is a perversion (except perhaps the case of exhibitionism, which we will discuss later). We might then ask: _what makes voyeurism work? What kinds of erotic experience can be obtained through observation?_
 
 I argue the following types are the most common ways in which voyeurs get off:
 
@@ -31,7 +31,7 @@ David Foster Wallace [writes](https://jsomers.net/DFW_TV.pdf) (pdf) (emphasis mi
 
 > What classic voyeurism is is espial: watching people who don't know you're there as they go about the _mundane but erotically charged little businesses of private life_. It's interesting that so much classic voyeurism involves media of framed glass--windows, telescopes, etc. Maybe the framed glass is why the analogy to television is so tempting. But TV-watching is a different animal from Peeping Tomism. Because the people we're watching through TV's framed-glass screen are not really ignorant of the fact that somebody is watching them...
 
-It is a key aspect of "voyeur porn" is a simulation of the target being unaware of the voyeur. But the more interesting part of his paragraph is the idea of "mundane but erotically charged little businesses of private life." We might wonder: what about _private life_ is _erotically charged_?
+Wallace highlights a key aspect of "voyeur porn": it is a simulation of the target being unaware of the voyeur. But the more interesting part of his paragraph is the idea of "mundane but erotically charged little businesses of private life." We might wonder: what about _private life_ is _erotically charged_?
 
 Haley Thurston provides us with an inkling of the answer, in her essay ["The Heroine's Journey"](https://www.ribbonfarm.com/2015/01/28/the-heroines-journey/) (emphasis mine):
 
@@ -43,7 +43,9 @@ Let us consider a voyeurism scenario. A man is watching a woman performing some 
 
 Beyond her appeal as a sexual object, he might imagine her psychology, her thought processes, her sensory experience, etc. He might imagine her negotiating composure prior to finding privacy: she might have felt aroused for some reason, but couldn't act on it or reveal it. He might imagine what this reason was, and her internal negotiation between taboo, animal experience and social norms. Hence there is a deep eroticism _built into modern life_, often based in Victorian notions of composure, that rests on the tension between social norms surrounding sexuality and our base desires.
 
-(TODO: quote Foucault? This section needs elaboration, examples? Discuss mind-reading fetish e.g.)
+(TODO: find images)
+
+(TODO: autogynephilia?)
 
 In this scenario, we assumed the voyeur remained hidden while observing his target. But, what happens if the target becomes aware of the voyeur? Two main outcomes exist: either the target becomes ashamed of her behavior, and reacts with fear, or she becomes aroused and engages in a sexual performance (exhibitionism). The rest of this essay will explore these two possibilities.
 
@@ -83,4 +85,4 @@ Given that sadism and masochism have been discussed at length in other literatur
 
 ## Conclusion
 
-(TODO: Conclude something about interest in voyeurism and porn? Hmmm...)
+(TODO: conclude with mutual reciprocation as meaning from Nagel)

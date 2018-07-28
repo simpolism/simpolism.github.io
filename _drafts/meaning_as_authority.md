@@ -1,6 +1,6 @@
-*Meaning As Authority*
+# Meaning As Authority
 
-## I. What is meaning?
+### I. What is meaning?
 
 What is meaning, the experience of meaningfulness? And how do I know what is worth doing, what actions will provide me meaning?
 
@@ -12,7 +12,7 @@ In "A Nihilist's Guide to Meaning"<sup>[2](#2)</sup>, Simler attempts to discuss
 
 Why is human life meaningful? Where do these fabled sources of "axiomatic meaning" come from? Let us gaze into the abyss.
 
-## II. Axiomatic Meaning as Authority
+### II. Axiomatic Meaning as Authority
 
 As Simler rightly notes, every action one takes feels meaningful in relation to its context. We wake up in the morning, we shower, and we go to work, mostly without thinking about it. These actions are meaningful because the axiomatic meaning in this context is meaningful: everything you need to do before going to work matters, because going to work matters. But we can peel away another layer: why does going to work matter?
 

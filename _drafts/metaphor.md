@@ -6,6 +6,36 @@ Jaynes' definition of metaphor, from [_The Origin of Consciousness in the Breakd
 
 > If we look more carefully at the nature of metaphor (noticing all the while the metaphorical nature of almost everything we are saying), we find (even the verb "find"!) that it is composed of more than a metaphier and a metaphrand. There are also at the bottom of the most complex metaphors various associations or attributes of the metaphier which I am going to call _paraphiers_. And these paraphiers project back into the metaphrand as what I shall call _paraphrands_ of the metaphrand. (56)
 
+Lakoff expands on this in [The Contemporary Theory of Metaphor](https://www.are.na/block/2554310) (1992):
+
+> **The Nature of Metaphor**
+> • Metaphor is the main mechanism through which we comprehend abstract concepts and perform abstract reasoning.
+> • Much subject matter, from the most mundane to the most abstruse scientific theories, can only be comprehended via metaphor.
+> • Metaphor is fundamentally conceptual, not linguistic, in nature.
+> • Metaphorical language is a surface manifestation of conceptual metaphor.
+> • Though much of our conceptual system is metaphorical, a significant part of it is nonmetaphorical. Metaphorical understanding is grounded in nonmetaphorical understanding.
+> • Metaphor allows us to understand a relatively abstract or inherently unstructured subject matter in terms of a more concrete, or at least a more highly structured subject matter.
+
+> **The Structure of Metaphor**
+> • Metaphors are mappings across conceptual domains.
+> • Such mappings are asymmetric and partial.
+> • Each mapping is a fixed set of ontological correspondences between entities in a source domain and entities in a target domain.
+> • When those fixed correspondences are activated, mappings can project source domain inference patterns onto target domain inference patterns.
+> • Metaphorical mappings obey the Invariance Principle: The image-schema structure of the source domain is projected onto the target domain in a way that is consistent with inherent target domain structure.
+> • Mappings are not arbitrary, but grounded in the body and in everyday experience and knowledge.
+> • A conceptual system contains thousands of conventional metaphorical mappings, which form a highly structured subsystem of the conceptual system.
+> • There are two types of mappings: conceptual mappings and imagemappings; both obey the Invariance Principle.
+
+> **Some Aspects of Metaphor**
+> • The system of conventional conceptual metaphor is mostly unconscious, automatic, and is used with no noticeable effort, just like our linguistic system and the rest of our conceptual system.
+> • Our system of conventional metaphor is alive in the same sense that our system of grammatical and phonological rules is alive; namely, it is constantly in use, automatically and below the level of consciousness.
+> • Our metaphor system is central to our understanding of experience and to the way we act on that understanding.
+> • Conventional mappings are static correspondences, and are not, in themselves, algorithmic in nature. However, this by no means rules out the possibility that such static correspondences might be used in language processing that involves sequential steps.
+> • Metaphor is mostly based on correspondences in our experiences, rather than on similarity.
+> • The metaphor system plays a major role in both the grammar and lexicon of a language.
+> • Metaphorical mappings vary in universality; some seem to be universal, others are widespread, and some seem to be culture- specific.
+> • Poetic metaphor is, for the most part, an extension of our everyday, conventional system of metaphorical thought
+
 ### What does metaphor do?
 
 Jaynes (emphasis mine):

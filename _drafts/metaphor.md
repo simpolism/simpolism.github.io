@@ -1,6 +1,6 @@
 ### <a name="lakoff">Lakoff</a>
 
-Lakoff expands on this in [The Contemporary Theory of Metaphor](https://www.are.na/block/2554310) (1992):
+Lakoff in [The Contemporary Theory of Metaphor](https://www.are.na/block/2554310) (1992):
 
 > **The Nature of Metaphor**  
 > • Metaphor is the main mechanism through which we comprehend abstract concepts and perform abstract reasoning.  
@@ -32,7 +32,7 @@ Lakoff expands on this in [The Contemporary Theory of Metaphor](https://www.are.
 
 ### <a name="jaynes">Jaynes</a>
 
-Jaynes' definition of metaphor, from [_The Origin of Consciousness in the Breakdown of the Bicameral Mind_](https://www.are.na/block/2554290) (1976):
+Similar to Lakoff is Jaynes' definition of metaphor, from [_The Origin of Consciousness in the Breakdown of the Bicameral Mind_](https://www.are.na/block/2554290) (1976):
 
 > I am using metaphor here in its most general sense: the use of a term for one thing to describe another beacuse of some kind of similarity between them or between their relations to other things. There are thus always two terms in a metaphor, the thing to be described, which I shall call the _metaphrand_, and the thing or relation used to elucidate it, which I shall call the _metaphier_. A metaphor is always a known metaphier operating on a less known metaphrand. I have coined these hybrid terms simply to echo muliplication where a multiplier operates on a multiplicand. (48-49)
 

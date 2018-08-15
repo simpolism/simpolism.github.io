@@ -1,14 +1,4 @@
-### What is metaphor?
-
-#### <a name="jaynes-definition">Jaynes</a>
-
-Jaynes' definition of metaphor, from [_The Origin of Consciousness in the Breakdown of the Bicameral Mind_](https://www.are.na/block/2554290) (1976):
-
-> I am using metaphor here in its most general sense: the use of a term for one thing to describe another beacuse of some kind of similarity between them or between their relations to other things. There are thus always two terms in a metaphor, the thing to be described, which I shall call the _metaphrand_, and the thing or relation used to elucidate it, which I shall call the _metaphier_. A metaphor is always a known metaphier operating on a less known metaphrand. I have coined these hybrid terms simply to echo muliplication where a multiplier operates on a multiplicand. (48-49)
-
-> If we look more carefully at the nature of metaphor (noticing all the while the metaphorical nature of almost everything we are saying), we find (even the verb "find"!) that it is composed of more than a metaphier and a metaphrand. There are also at the bottom of the most complex metaphors various associations or attributes of the metaphier which I am going to call _paraphiers_. And these paraphiers project back into the metaphrand as what I shall call _paraphrands_ of the metaphrand. (56)
-
-#### <a name="lakoff">Lakoff</a>
+### <a name="lakoff">Lakoff</a>
 
 Lakoff expands on this in [The Contemporary Theory of Metaphor](https://www.are.na/block/2554310) (1992):
 
@@ -40,11 +30,15 @@ Lakoff expands on this in [The Contemporary Theory of Metaphor](https://www.are.
 > • Metaphorical mappings vary in universality; some seem to be universal, others are widespread, and some seem to be culture-specific.  
 > • Poetic metaphor is, for the most part, an extension of our everyday, conventional system of metaphorical thought
 
-### What does metaphor do?
+### <a name="jaynes">Jaynes</a>
 
-#### <a name="jaynes">Jaynes</a>
+Jaynes' definition of metaphor, from [_The Origin of Consciousness in the Breakdown of the Bicameral Mind_](https://www.are.na/block/2554290) (1976):
 
-Jaynes (emphasis mine):
+> I am using metaphor here in its most general sense: the use of a term for one thing to describe another beacuse of some kind of similarity between them or between their relations to other things. There are thus always two terms in a metaphor, the thing to be described, which I shall call the _metaphrand_, and the thing or relation used to elucidate it, which I shall call the _metaphier_. A metaphor is always a known metaphier operating on a less known metaphrand. I have coined these hybrid terms simply to echo muliplication where a multiplier operates on a multiplicand. (48-49)
+
+> If we look more carefully at the nature of metaphor (noticing all the while the metaphorical nature of almost everything we are saying), we find (even the verb "find"!) that it is composed of more than a metaphier and a metaphrand. There are also at the bottom of the most complex metaphors various associations or attributes of the metaphier which I am going to call _paraphiers_. And these paraphiers project back into the metaphrand as what I shall call _paraphrands_ of the metaphrand. (56)
+
+Jaynes elaborates on the function of metaphor (emphasis mine):
 
 > It is by metaphor that language grows. The common reply to the question "what is it?" is, when the reply is difficult or the experience unique, "well, it is like ---." In laboratory studies, both children and adults describing nonsense objects (or metaphrands) to others who cannot see them use extended metaphiers that with repetition become contracted into labels. This is the major way in which the vocabulary of language is formed. **The grand and vigorous function of metaphor is the generation of new language as it is needed, as human culture becomes more and more complex**. (Jaynes 49)
 
@@ -56,13 +50,13 @@ Jaynes (emphasis mine):
 
 > It is not always obvious that metaphor has played this all-important function. But this is because the concrete metaphiers become hidden in phonemic change, leaving the words to exist on their own. Even such an unmetaphorical-sounding word as the verb 'to be' was generated from a metaphor. It comes from the Sanskrit _bhu_, "to grow, or make grow," while the English forms 'am' and 'is' have evolved from the same root as the Sanskrit _asmi_, "to breathe." It is something of a lovely surprise that the irregular conjugation of our most nondescript verb is thus a record of a time when man had no independent word for 'existence' and could only say that something 'grows' or that it "breathes."... **Abstract words are ancient coins whose concrete images in the busy give-and-take of talk have worn away with use.** (Jaynes 51)
 
-#### <a name="orwell">Orwell</a>
+### <a name="orwell">Orwell</a>
 
 Compare the metaphor of "abstract words as ancient coins wearing away" to a passage from [Orwell's "Politics and the English Language"](https://www.are.na/block/2555065) (1946):
 
 > DYING METAPHORS. A newly invented metaphor assists thought by evoking a visual image, while on the other hand a metaphor which is technically ‘dead’ (e. g. iron resolution) has in effect reverted to being an ordinary word and can generally be used without loss of vividness. But in between these two classes there is a huge dump of worn-out metaphors which have lost all evocative power and are merely used because they save people the trouble of inventing phrases for themselves. Examples are: Ring the changes on, take up the cudgel for, toe the line, ride roughshod over, stand shoulder to shoulder with, play into the hands of, no axe to grind, grist to the mill, fishing in troubled waters, on the order of the day, Achilles’ heel, swan song, hotbed. Many of these are used without knowledge of their meaning (what is a ‘rift’, for instance?), and incompatible metaphors are frequently mixed, a sure sign that the writer is not interested in what he is saying. Some metaphors now current have been twisted out of their original meaning without those who use them even being aware of the fact. For example, toe the line is sometimes written as tow the line. Another example is the hammer and the anvil, now always used with the implication that the anvil gets the worst of it. In real life it is always the anvil that breaks the hammer, never the other way about: a writer who stopped to think what he was saying would avoid perverting the original phrase. (Orwell 130)
 
-#### <a name="nietzsche">Nietzsche: Metaphor and Truth</a>
+### <a name="nietzsche">Nietzsche: Metaphor and Truth</a>
 
 Nietzsche writes in [On Truth and Lies in the Nonmoral Sense](https://www.are.na/block/2554307) (1873) (emphasis mine):
 

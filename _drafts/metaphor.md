@@ -30,7 +30,7 @@ Lakoff in [The Contemporary Theory of Metaphor](https://www.are.na/block/2554310
 > • Metaphorical mappings vary in universality; some seem to be universal, others are widespread, and some seem to be culture-specific.  
 > • Poetic metaphor is, for the most part, an extension of our everyday, conventional system of metaphorical thought
 
-### <a name="wittgenstein>Wittgenstein</a>
+### <a name="wittgenstein">Wittgenstein</a>
 
 TODO
 

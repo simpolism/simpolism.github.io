@@ -1,4 +1,4 @@
-### <a name="lakoff">Lakoff</a>
+### <a name="lakoff" href="#lakoff">Lakoff</a>
 
 Lakoff in [The Contemporary Theory of Metaphor](https://www.are.na/block/2554310) (1992):
 
@@ -30,11 +30,11 @@ Lakoff in [The Contemporary Theory of Metaphor](https://www.are.na/block/2554310
 > • Metaphorical mappings vary in universality; some seem to be universal, others are widespread, and some seem to be culture-specific.  
 > • Poetic metaphor is, for the most part, an extension of our everyday, conventional system of metaphorical thought
 
-### <a name="wittgenstein">Wittgenstein</a>
+### <a name="wittgenstein" href="#wittgenstein">Wittgenstein</a>
 
 TODO
 
-### <a name="jaynes">Jaynes</a>
+### <a name="jaynes" href="#jaynes">Jaynes</a>
 
 Similar to Lakoff is Jaynes' definition of metaphor, from [_The Origin of Consciousness in the Breakdown of the Bicameral Mind_](https://www.are.na/block/2554290) (1976):
 
@@ -54,13 +54,13 @@ Jaynes elaborates on the function of metaphor (emphasis mine):
 
 > It is not always obvious that metaphor has played this all-important function. But this is because the concrete metaphiers become hidden in phonemic change, leaving the words to exist on their own. Even such an unmetaphorical-sounding word as the verb 'to be' was generated from a metaphor. It comes from the Sanskrit _bhu_, "to grow, or make grow," while the English forms 'am' and 'is' have evolved from the same root as the Sanskrit _asmi_, "to breathe." It is something of a lovely surprise that the irregular conjugation of our most nondescript verb is thus a record of a time when man had no independent word for 'existence' and could only say that something 'grows' or that it "breathes."... **Abstract words are ancient coins whose concrete images in the busy give-and-take of talk have worn away with use.** (Jaynes 51)
 
-### <a name="orwell">Orwell</a>
+### <a name="orwell" href="#orwell">Orwell</a>
 
 Compare the metaphor of "abstract words as ancient coins wearing away" to a passage from [Orwell's "Politics and the English Language"](https://www.are.na/block/2555065) (1946):
 
 > DYING METAPHORS. A newly invented metaphor assists thought by evoking a visual image, while on the other hand a metaphor which is technically ‘dead’ (e. g. iron resolution) has in effect reverted to being an ordinary word and can generally be used without loss of vividness. But in between these two classes there is a huge dump of worn-out metaphors which have lost all evocative power and are merely used because they save people the trouble of inventing phrases for themselves. Examples are: Ring the changes on, take up the cudgel for, toe the line, ride roughshod over, stand shoulder to shoulder with, play into the hands of, no axe to grind, grist to the mill, fishing in troubled waters, on the order of the day, Achilles’ heel, swan song, hotbed. Many of these are used without knowledge of their meaning (what is a ‘rift’, for instance?), and incompatible metaphors are frequently mixed, a sure sign that the writer is not interested in what he is saying. Some metaphors now current have been twisted out of their original meaning without those who use them even being aware of the fact. For example, toe the line is sometimes written as tow the line. Another example is the hammer and the anvil, now always used with the implication that the anvil gets the worst of it. In real life it is always the anvil that breaks the hammer, never the other way about: a writer who stopped to think what he was saying would avoid perverting the original phrase. (Orwell 130)
 
-### <a name="nietzsche">Nietzsche: Metaphor and Truth</a>
+### <a name="nietzsche" href="#nietzsche">Nietzsche: Metaphor and Truth</a>
 
 Nietzsche writes in [On Truth and Lies in the Nonmoral Sense](https://www.are.na/block/2554307) (1873) (emphasis mine):
 

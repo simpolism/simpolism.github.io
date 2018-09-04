@@ -10,7 +10,35 @@ I share many of my best thoughts on Twitter. On this page, I'll compile some of 
 
 I tend to write in "branching" threads, best visualized as "trees".  If a tweet in the root's thread has replies, consider clicking on the tweet to see if it has branching sub-threads in the replies. A tool like [Treeverse](https://chrome.google.com/webstore/detail/treeverse/aahmjdadniahaicebomlagekkcnlcila?hl=en) might also be helpful, but it is under-featured. Apparently, Twitter used to have an API that made better visualization tools possible, but it was removed several years ago. Noticing this, I've been trying to write with fewer branches, although a few sneak in anyway.
 
-## Major Threads
+### On The "Normiesphere" & Being An Outsider
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">I recall my time in the normie-sphere as a joyous high. We&#39;d float through time, secure and together, content even in failure.</p>&mdash; simpolism (@simpolism) <a href="https://twitter.com/simpolism/status/1027988446218993664?ref_src=twsrc%5Etfw">August 10, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+### Future Chatroom Ideas
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">a chatroom called &quot;comfortable silence&quot; in which nobody is allowed to chat, all you see are online/offline status indicators</p>&mdash; simpolism (@simpolism) <a href="https://twitter.com/simpolism/status/1012161019014189056?ref_src=twsrc%5Etfw">June 28, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+### Pathological Obsession With Causality
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">pathological obsession with causality</p>&mdash; simpolism (@simpolism) <a href="https://twitter.com/simpolism/status/1007879697693224960?ref_src=twsrc%5Etfw">June 16, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+### Parks As Religious Institutions
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">The urban park is a religious institution. Olmstead knew this. Moses abused this.<br><br>Pictured is one of Central Park&#39;s inner sanctums. <a href="https://t.co/Nvs0KoZQ09">pic.twitter.com/Nvs0KoZQ09</a></p>&mdash; simpolism (@simpolism) <a href="https://twitter.com/simpolism/status/998708010632597504?ref_src=twsrc%5Etfw">May 21, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+### Ethics and "Hardwired Impulses"
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Thought Experiment: oh no!! You have been castrated!! You will never have intercourse again, nor bear any children.<br><br>How does your life change? What choices will you make differently (if any)?</p>&mdash; simpolism (@simpolism) <a href="https://twitter.com/simpolism/status/991861579724546049?ref_src=twsrc%5Etfw">May 3, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+### Ethics In Tech: Why?
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Lengthy thread discusses how popular criticism of tech is interpreted by CS-literate people. We need better words to express the distinction between e.g. &quot;The PageRank Algorithm&quot; and &quot;The Fundamental Concept of a Relevant Webpage&quot;. One involves ethical implications, one doesn&#39;t. <a href="https://t.co/SYBUDkpPLd">https://t.co/SYBUDkpPLd</a></p>&mdash; simpolism (@simpolism) <a href="https://twitter.com/simpolism/status/984427240363577344?ref_src=twsrc%5Etfw">April 12, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### Dunbar Sphere
 
@@ -35,50 +63,4 @@ I tend to write in "branching" threads, best visualized as "trees".  If a tweet 
 ### Emotional Cognition
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Many &quot;normies&quot; have little insight into their own affective states. They might experience a specific anxiety as a general uneasiness.</p>&mdash; simpolism (@simpolism) <a href="https://twitter.com/simpolism/status/934972259428691969?ref_src=twsrc%5Etfw">November 27, 2017</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-## Minor Threads
-
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">contemporary Western portraying an outlaw duo who hijack autonomous trucks</p>&mdash; simpolism (@simpolism) <a href="https://twitter.com/simpolism/status/968853595629260801?ref_src=twsrc%5Etfw">February 28, 2018</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">An algorithm that silently matches users who&#39;d find each other&#39;s views offensive, and then cross-promotes their tweets.</p>&mdash; simpolism (@simpolism) <a href="https://twitter.com/simpolism/status/964998062384041985?ref_src=twsrc%5Etfw">February 17, 2018</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Before we sleep, we must perform a ritual to close the day, to conclude and thus condense our day into a whole.</p>&mdash; simpolism (@simpolism) <a href="https://twitter.com/simpolism/status/963280588378587136?ref_src=twsrc%5Etfw">February 13, 2018</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">It&#39;s an odd feeling to visit old friends. You can feel long-dead counterfactual selves bubble to the surface, a gentle nudge into old ways of thinking and acting. It&#39;s a rare experience, realizing who you are and who you could have become.</p>&mdash; simpolism (@simpolism) <a href="https://twitter.com/simpolism/status/951922217297829889?ref_src=twsrc%5Etfw">January 12, 2018</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">A city suffering through cold weather together produces shared feelings of struggle.<br><br>Shared struggle, as MMORPGs have figured out and exploited, is the precursor to strong communities and social bonds.</p>&mdash; simpolism (@simpolism) <a href="https://twitter.com/simpolism/status/946783871538028548?ref_src=twsrc%5Etfw">December 29, 2017</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">1) Thread: OKCupid&#39;s gradual transformation into Tinder-with-Details, how a novel online dating behavioral model was lost.</p>&mdash; simpolism (@simpolism) <a href="https://twitter.com/simpolism/status/944284443342143489?ref_src=twsrc%5Etfw">December 22, 2017</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Real-time OCR (language recognition) + translation in AR is going to massively change how individual travelers can engage with foreign cultures.</p>&mdash; simpolism (@simpolism) <a href="https://twitter.com/simpolism/status/942610039793074177?ref_src=twsrc%5Etfw">December 18, 2017</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">A big problem with depression rhetoric suggesting openness is a failure to recognize depression&#39;s memetic nature.</p>&mdash; simpolism (@simpolism) <a href="https://twitter.com/simpolism/status/936597083225772032?ref_src=twsrc%5Etfw">December 1, 2017</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">If you have yet to try a water fast lasting over 24 hours, I strongly suggest you attempt one.</p>&mdash; simpolism (@simpolism) <a href="https://twitter.com/simpolism/status/931348322849382400?ref_src=twsrc%5Etfw">November 17, 2017</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Thread about music taste. This tweet has an interesting point: what is &quot;Dated&quot; vs &quot;Bad&quot;? In what &quot;conceptual universes&quot; is Dated = Bad? <a href="https://t.co/NGz5uCIc3O">https://t.co/NGz5uCIc3O</a></p>&mdash; simpolism (@simpolism) <a href="https://twitter.com/simpolism/status/927638290416750592?ref_src=twsrc%5Etfw">November 6, 2017</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">&quot;Civic Duties&quot; are ritual practices of benevolent state religion that allow the mass populace (i.e. political outsiders) to self-advocate.</p>&mdash; simpolism (@simpolism) <a href="https://twitter.com/simpolism/status/926112522888994817?ref_src=twsrc%5Etfw">November 2, 2017</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Comparing historical figures to contemporary figures is difficult. We struggle to understand the experience of living in another context.</p>&mdash; simpolism (@simpolism) <a href="https://twitter.com/simpolism/status/924763812573732865?ref_src=twsrc%5Etfw">October 29, 2017</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-## Trolling
-
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Buddhism : <a href="https://twitter.com/Meaningness?ref_src=twsrc%5Etfw">@Meaningness</a> :: Christianity : <a href="https://twitter.com/jordanbpeterson?ref_src=twsrc%5Etfw">@jordanbpeterson</a>. prove me wrong.</p>&mdash; simpolism (@simpolism) <a href="https://twitter.com/simpolism/status/973216578148892674?ref_src=twsrc%5Etfw">March 12, 2018</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">shit postmodernists love:<br>- godel&#39;s incompleteness thm<br>- quantum mechanics<br>- leftism<br>- shitting on parsons, habermas<br>- france<br>- breaking stuff (and laughing about it)</p>&mdash; simpolism (@simpolism) <a href="https://twitter.com/simpolism/status/958707778608074753?ref_src=twsrc%5Etfw">January 31, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

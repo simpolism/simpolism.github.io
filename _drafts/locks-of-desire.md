@@ -10,7 +10,7 @@ We each need enough to meet our needs, a trickle of water from some source or an
 
 So, what do we do with our humble libidos? Those at the top use energy to move others: they lead corporations, coordinating power to run the great locks and canals. These man-made channels become part of the landscape, and those downstream grow to rely on their flows. Most people contribute to these giant structures, although not always at the same position in the streams. Then most use what's left to grow a few flowers, hoping for pollination and leaving behind some art.
 
-1: https://www.ribbonfarm.com/2010/11/05/ancient-rivers-of-money/
-2: https://en.wikipedia.org/wiki/Cathexis
-3: https://i.imgur.com/rbDd78b.jpg
+1: https://www.ribbonfarm.com/2010/11/05/ancient-rivers-of-money/  
+2: https://en.wikipedia.org/wiki/Cathexis  
+3: https://i.imgur.com/rbDd78b.jpg  
 4: https://www.ribbonfarm.com/2010/11/05/ancient-rivers-of-money/#comment-19083
